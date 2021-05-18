@@ -3,13 +3,13 @@
   margin: 0 0 2em 0;
   list-style-type: none;
   padding: 0;
-  width: 15em;
+  width: 25em;
 }
 .heroes li {
   cursor: pointer;
   position: relative;
   left: 0;
-  background-color: #EEE;
+  background-color: rgb(241, 22, 231);
   margin: .5em;
   padding: .3em 0;
   height: 1.6em;
@@ -37,7 +37,7 @@
   font-size: small;
   color: white;
   padding: 0.8em 0.7em 0 0.7em;
-  background-color:#405061;
+  background-color:#0c529c;
   line-height: 1em;
   position: relative;
   left: -1px;
